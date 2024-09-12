@@ -45,7 +45,7 @@
 
 1. **克隆项目**：
     ```bash
-    git clone https://github.com/yungvenuz/ai-oj-test-data-generator.git
+    git clone https://github.com/yviscool/ai-oj-test-data-generator.git
     cd ai-oj-test-data-generator
     ```
 
